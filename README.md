@@ -1,5 +1,7 @@
 # SICP JavaScript 描述
 
+![](cover.jpg)
+
 > 原文：[https://sicp.comp.nus.edu.sg/index.html](https://sicp.comp.nus.edu.sg/index.html)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
