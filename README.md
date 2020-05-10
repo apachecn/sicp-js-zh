@@ -1,4 +1,4 @@
-# SICP JavaScript 描述
+# NUS CS1101s SICP JavaScript 描述
 
 ![](cover.jpg)
 
